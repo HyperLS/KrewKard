@@ -1,0 +1,9 @@
+{
+  "prefix": "K!",  
+  "token": "NDcwMTkyODk5NjI4MzM1MTI0.XkyZWw.QlWSAXEJ_SvZXoSGZv6XYW9YYnY",
+  "tenorAPI": "tenor-API-key",
+  "newsAPI": "news-api-key",
+  "youtubeAPI": "AIzaSyCN_k7I_Ya6y9p0V96t1t4dkstZH4sHbXU",
+  "yandexAPI": "pdct.1.1.20200205T234444Z.1316416a1373f0a2.6eb5e011c81683d8b08d1c4e8a021225b00cf95d",
+  "geniusLyricsAPI": "genius-api-key"
+}
